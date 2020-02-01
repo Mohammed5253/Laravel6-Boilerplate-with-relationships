@@ -18,6 +18,9 @@ $ php artisan serve <br/>
 </div>
 Now you can access the application via <a href=http://localhost:8000>http://localhost:8000</a>
 
-#Important Links
+<br/>
 
-
+# Important Links
+1. Login: http://localhost:8000/login
+2. Register: http://localhost:8000/register
+3. Telescope for monitoring performance: http://localhost:8000/telescope/
