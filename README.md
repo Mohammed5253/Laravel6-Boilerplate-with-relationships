@@ -1,4 +1,4 @@
-# Laravel6-relationship-boilerplate
+# Laravel6 Boilerplate
  Laravel 6 Boilerplate With Authentication, Soft delete Relationship Management.
  <br />
  Out of box: <b> Monitor the changes with Telescope </b>
