@@ -5,7 +5,7 @@
  
  Setting up your development environment on your local machine :
 
-# Steps to follow
+# Installation
 <div class="text-white bg-blue mb-2">
 
 $ git clone https://github.com/Mohammed5253/Laravel6-Boilerplate-with-relationships.git <br/>
@@ -16,4 +16,7 @@ $ php artisan migrate <br/>
 $ php artisan serve <br/>
 
 </div>
+Now you can access the application via http://localhost:8000.
+
+
 
