@@ -16,7 +16,7 @@ $ php artisan migrate <br/>
 $ php artisan serve <br/>
 
 </div>
-Now you can access the application via http://localhost:8000.
+Now you can access the application via <a href=http://localhost:8000>http://localhost:8000</a>
 
 
 
